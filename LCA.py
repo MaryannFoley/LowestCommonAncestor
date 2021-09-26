@@ -1,6 +1,4 @@
 import unittest
-import sys
-import io
 from tree import Node
 
 def lowest_common_ancestor_helper(node1, node2, currentNode):
